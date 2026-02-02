@@ -169,4 +169,7 @@ This project demonstrates my ability to build systems that sit at the intersecti
 - GRC workflow design  
 - Security automation  
 - AI-assisted compliance operations  
-- Enterprise risk visibility  
+- Enterprise risk visibility
+
+  ## [![Watch the video](https://github.com/user-attachments/assets/7239482c-5db7-4e07-bd59-205c202ed1cb)](https://youtu.be/t2U0bwTccoM)
+
