@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 1, 2026, 08_21_14 PM" src="https://github.com/user-attachments/assets/fcf2e6cb-ad84-425b-8af0-a819ba8314bb" />
+
 # AI-Assisted Phishing Awareness & Compliance Portal  
 ### GRC Workflow Automation Agent (Proof-of-Concept)
 
