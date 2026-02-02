@@ -14,6 +14,14 @@ This project is **modeled after real enterprise compliance workflows** and is bu
 
 ---
 
+## 🎥 Click the Picture Below to Watch Demo ⬇️
+<a href="https://youtu.be/t2U0bwTccoM" target="_blank">
+  <img width="1432" height="880" alt="image" src="https://github.com/user-attachments/assets/7239482c-5db7-4e07-bd59-205c202ed1cb" />
+</a>
+
+
+
+
 ## What This Portal Is Designed To Do
 
 The portal simulates a centralized environment where organizations can:
